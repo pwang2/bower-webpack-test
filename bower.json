@@ -1,0 +1,22 @@
+{
+  "name": "bower-webpack-test",
+  "authors": [
+    "Peng Wang <pwang2@live.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "^6.3.0",
+    "bootstrap": "v4.0.0-alpha.6",
+    "d3.chart": "^0.3.0"
+  }
+}
